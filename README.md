@@ -3,7 +3,7 @@
 - Mail me at joshi.7@iitj.ac.in
 - Check out my website at https://tanishqj2005.github.io
 - Python || React || Tensorflow || Flask
-- Sophomore at IIT Jodhpur!
+- Junior at IIT Jodhpur!
 <!--
 **tanishqj2005/tanishqj2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
